@@ -1,7 +1,4 @@
 
-// getElementById lets me get the element with that id
-const button = document.getElementById("button");
-const h1 = document.getElementById("h1");
 
 // function from onclick in button
 function change(){
